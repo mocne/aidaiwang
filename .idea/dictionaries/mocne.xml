@@ -6,7 +6,9 @@
       <w>levelname</w>
       <w>levelno</w>
       <w>lineno</w>
+      <w>mocne</w>
       <w>streamhandler</w>
+      <w>urlimg</w>
     </words>
   </dictionary>
 </component>
